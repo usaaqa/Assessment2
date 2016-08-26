@@ -1,0 +1,9 @@
+C:\My works\ArithmeticPatternMatching\ArithmeticPatternMatching\bin\Debug\ArithmeticPatternMatching.exe.config
+C:\My works\ArithmeticPatternMatching\ArithmeticPatternMatching\bin\Debug\ArithmeticPatternMatching.exe
+C:\My works\ArithmeticPatternMatching\ArithmeticPatternMatching\bin\Debug\ArithmeticPatternMatching.pdb
+C:\My works\ArithmeticPatternMatching\ArithmeticPatternMatching\obj\Debug\ArithmeticPatternMatching.csprojResolveAssemblyReference.cache
+C:\My works\ArithmeticPatternMatching\ArithmeticPatternMatching\obj\Debug\ArithmeticPatternMatching.exe
+C:\My works\ArithmeticPatternMatching\ArithmeticPatternMatching\obj\Debug\ArithmeticPatternMatching.pdb
+H:\USSA\ArithmeticPatternMatching\ArithmeticPatternMatching\bin\Debug\ArithmeticPatternMatching.exe.config
+H:\USSA\ArithmeticPatternMatching\ArithmeticPatternMatching\obj\Debug\ArithmeticPatternMatching.exe
+H:\USSA\ArithmeticPatternMatching\ArithmeticPatternMatching\obj\Debug\ArithmeticPatternMatching.pdb
