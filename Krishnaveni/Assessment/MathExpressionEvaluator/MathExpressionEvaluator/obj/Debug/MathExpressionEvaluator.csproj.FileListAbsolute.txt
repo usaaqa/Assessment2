@@ -1,0 +1,6 @@
+D:\Users\venkata-r\Desktop\progs\MathExpressionEvaluator\MathExpressionEvaluator\bin\Debug\MathExpressionEvaluator.exe.config
+D:\Users\venkata-r\Desktop\progs\MathExpressionEvaluator\MathExpressionEvaluator\bin\Debug\MathExpressionEvaluator.exe
+D:\Users\venkata-r\Desktop\progs\MathExpressionEvaluator\MathExpressionEvaluator\bin\Debug\MathExpressionEvaluator.pdb
+D:\Users\venkata-r\Desktop\progs\MathExpressionEvaluator\MathExpressionEvaluator\obj\Debug\MathExpressionEvaluator.csprojResolveAssemblyReference.cache
+D:\Users\venkata-r\Desktop\progs\MathExpressionEvaluator\MathExpressionEvaluator\obj\Debug\MathExpressionEvaluator.exe
+D:\Users\venkata-r\Desktop\progs\MathExpressionEvaluator\MathExpressionEvaluator\obj\Debug\MathExpressionEvaluator.pdb
